@@ -5,11 +5,11 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorServerApp", "BlazorServerApp\BlazorServerApp.csproj", "{C64FDE4C-548D-44FA-BA38-9013A86324DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWasmApp", "BlazorWasmApp\BlazorWasmApp.csproj", "{9BB4FBE2-9542-4017-B848-CC97FDD6D6FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorWasmApp", "BlazorWasmApp\BlazorWasmApp.csproj", "{9BB4FBE2-9542-4017-B848-CC97FDD6D6FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorMauiApp", "BlazorMauiApp\BlazorMauiApp.csproj", "{B0BC531B-D040-444F-9B63-FE3C062FC727}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorMauiApp", "BlazorMauiApp\BlazorMauiApp.csproj", "{B0BC531B-D040-444F-9B63-FE3C062FC727}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorPageApp", "RazorPageApp\RazorPageApp.csproj", "{025B6937-FB16-48D2-911E-DFD6BCE45575}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RazorPageApp", "RazorPageApp\RazorPageApp.csproj", "{025B6937-FB16-48D2-911E-DFD6BCE45575}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
