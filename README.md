@@ -1,6 +1,6 @@
 # net-core-explore
-Lista de Comandos DotNet no Terminal <br />
-Projeto em .Net Core (Blazor, MAUI (Mobile) e API)
+Projeto em .Net Core (RazorPage, Blazor, MAUI (Mobile) e API) <br />
+Lista de Comandos DotNet no Terminal
 
 <br />
 
