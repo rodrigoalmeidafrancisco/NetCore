@@ -42,4 +42,3 @@ Lista de Comandos DotNet no Terminal
 |  dotnet add package         |  Adiciona um pacote NuGet                                                                           |
 |  dotnet remove package      |  Remove um pacote NuGet                                                                             |
 
-hahahahah
